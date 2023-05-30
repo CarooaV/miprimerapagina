@@ -1,0 +1,13 @@
+/*color (blue, red, green, pink, etc.)
+
+background-color (black, orange, yellow, etc.)
+
+font-family (arial, helvetica, etc.)
+font-size (medidas tales como 20px, 40px, etc.)
+
+margin (medidas tales como 20px, 50px, 100px, etc.)*/
+h1{
+    color:rgb(76, 76, 129);
+    margin: 20px,10px,10px,10px;
+    border: 5px solid black;
+} 
